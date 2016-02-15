@@ -1,0 +1,3 @@
+markdown: redcarpet
+baseurl: /shopping4
+exclude:['README.md']
